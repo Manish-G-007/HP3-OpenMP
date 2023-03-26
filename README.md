@@ -1,1 +1,4 @@
-# HP3-OpenMP
+## OpenMP Mini-Projects
+
+* Histogram Equalization
+* Many Body Simulation
