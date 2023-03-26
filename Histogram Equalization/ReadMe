@@ -1,0 +1,5 @@
+1) Install libpng, which is used for reading and writing png files
+2) Run the cpp code, using 
+             'g++ -fopenmp 18CS10020_hist_equ.cpp -lpng'
+3) Run the executable, 
+             ./a.out input.png output.png <num_threads>
